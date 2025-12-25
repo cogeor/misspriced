@@ -1,0 +1,31 @@
+# .venv
+.venv/
+.venv_new/
+
+# Python
+__pycache__/
+.pytest_cache
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDE
+.idea
+.vscode
+
+# System
+.DS_Store
+Thumbs.db
+
+# Other
+*.lock
+
+*.db
+
+notes.txt
+!debug_error.log
+
+.artifacts
+
+data/
